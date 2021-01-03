@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://elimu.work</id>
     <title>R&apos;lyeh Seaside Park</title>
-    <updated>2021-01-03T12:20:35.370Z</updated>
+    <updated>2021-01-03T12:22:06.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://elimu.work"/>
     <link rel="self" href="https://elimu.work/atom.xml"/>
@@ -10,14 +10,4 @@
     <logo>https://elimu.work/images/avatar.png</logo>
     <icon>https://elimu.work/favicon.ico</icon>
     <rights>All rights reserved 2021, R&apos;lyeh Seaside Park</rights>
-    <entry>
-        <title type="html"><![CDATA[关于]]></title>
-        <id>https://elimu.work/post/about/</id>
-        <link href="https://elimu.work/post/about/">
-        </link>
-        <updated>2020-12-27T06:12:18.000Z</updated>
-        <content type="html"><![CDATA[<p>一个还在测试中的网站。最近重新建了。<br>
-markdown是我选择用gridea的唯一理由。原本用过很长一段时间hexo，但是真的好麻烦哦= =</p>
-]]></content>
-    </entry>
 </feed>
